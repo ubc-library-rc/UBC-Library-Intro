@@ -27,4 +27,4 @@ By the end of this workshop, you will be able to:
 | 1:00 | Wrap-up and Discussion |
 
 ## Resources
-[Presentation](UBC-Library-Intro/RHSC_GradStudOrientation_2021.pdf)
+[Presentation](RHSC_GradStudOrientation_2021.pdf)
