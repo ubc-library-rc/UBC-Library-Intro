@@ -6,7 +6,9 @@ nav_order: 1
 
 ## Note: this workshop is in development and not yet complete.
 
-Are you a graduate student and new to UBC? This basic orientation will briefly introduce you in 30 minutes to the people, resources and services at UBC Library.
+# Introduction & Welcome
+
+Are you a graduate student and new to UBC? This basic orientation will briefly introduce you resources, services and people at UBC Library.
 
 ## Learning objectives
 
@@ -17,14 +19,9 @@ By the end of this workshop, you will be able to:
 4. Find top library resources
 5. List services for graduate students
 
-## Schedule
+## Land Acknowledgment
 
-| 0:00 | Welcome and using Zoom|
-| 0:05 | Introduction |  
-| 0:15 |  |
-| 0:30 |  |   
-| 0:45 |  |
-| 1:00 | Wrap-up and Discussion |
+Site template adapted from the [just-the-docs](https://github.com/pmarsceill/just-the-docs) Jekyll template created by [Patrick Marsceil](https://github.com/pmarsceill) and available under the [MIT License](http://opensource.org/licenses/MIT).
 
-## Resources
+## Resources: Presentation PDF
 [Presentation](RHSC_GradStudOrientation_2021.pdf)
