@@ -33,4 +33,4 @@ By the end of this workshop, you will be able to:
 
 ## Video
 
-<video controls="controls" name="Grad Orientation to the Library part 1 test" width="100%" src="content/Instructional Videos/GRAD student orientation to the library - part 1_test.avi"></video>
+<video controls="controls" name="Grad Orientation to the Library part 1 test" width="100%" src="content/Instructional Videos/GRAD student orientation to the library - part 1.mp4"></video>
