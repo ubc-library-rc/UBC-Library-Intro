@@ -2,7 +2,7 @@
 layout: default
 nav_order: 2
 title: Land acknowledgement 
-parent: index
+parent: Outline
 ---
 # Land acknowledgement
 
