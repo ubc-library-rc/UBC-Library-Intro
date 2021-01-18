@@ -1,6 +1,6 @@
 ---
 layout: default
-title: UBC Library resources and services
+title: UBC Library Resources and Services
 nav_order: 3
 has_children: true
 ---
