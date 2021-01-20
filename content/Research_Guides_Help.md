@@ -1,7 +1,7 @@
 ---
 layout: default
 nav_order: 5
-title: Library updates
+title: Research Guides & Research Help
 parent: UBC Library Resources and Services
 ---
 
