@@ -9,7 +9,7 @@ parent: UBC Library Resources and Services
 
 <video controls="controls" name="Grad Orientation to the Library part 2" width="100%" src="content/GRAD student orientation to the library - part 2.mp4"></video> 
 
-# Links
+## Links
 
 UBC Campuses: [https://www.ubc.ca/our-campuses/](https://www.ubc.ca/our-campuses/)
 
