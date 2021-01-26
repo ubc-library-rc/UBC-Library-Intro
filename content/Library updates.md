@@ -5,10 +5,6 @@ title: Library updates
 parent: UBC Library Resources and Services
 ---
 
-# Video
-
-<video controls="controls" name="GRAD student video part 2" width="100%" src="content/GRAD student orientation to the library - part 2.mp4"></video>
-
 ## Links
 
 UBC Campuses: [https://www.ubc.ca/our-campuses/](https://www.ubc.ca/our-campuses/)
@@ -20,6 +16,10 @@ COVID updates: [https://services.library.ubc.ca/covid-19-response/](https://serv
 Materials pick-up services (Get It): [https://services.library.ubc.ca/borrowing-services/get-it/](https://services.library.ubc.ca/borrowing-services/get-it/)
 
 Hours and Locations: [https://hours.library.ubc.ca/](https://hours.library.ubc.ca/)
+
+# Video
+
+<video controls="controls" name="GRAD student video part 2" width="100%" src="content/GRAD student orientation to the library - part 2.mp4"></video>
 
 ## Video Transcript
 
