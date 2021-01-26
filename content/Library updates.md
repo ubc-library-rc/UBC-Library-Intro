@@ -21,7 +21,7 @@ Materials pick-up services (Get It): [https://services.library.ubc.ca/borrowing-
 
 Hours and Locations: [https://hours.library.ubc.ca/](https://hours.library.ubc.ca/)
 
-# Video Transcript
+## Video Transcript
 
 Before we begin, we wanted to let you know that UBC has 2 campuses: UBC Vancouver and UBC Okanagan. If you are a UBC Okanagan student, some things might look different for you, but you can still benefit from this video.
 UBC Library services are available even when our branches are physically closed. You can always access e-resources on the library website, but if you’re in Vancouver, you can also request physical items through the UBC Library Materials Pick-Up service. This service allows you to request physical items in the library’s collection, which we will get for you and they will be ready to pick up in about 10 days.
