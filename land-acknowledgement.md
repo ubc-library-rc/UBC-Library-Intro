@@ -4,6 +4,11 @@ nav_order: 2
 title: Land acknowledgement 
 parent: Outline
 ---
+
+# library updates video test
+
+<video controls="controls" name="GRAD student orientation to the library - part 2" width="100%" src="content/GRAD student orientation to the library - part 2.mp4"></video>
+
 # Land acknowledgement
 
 Before beginning the workshop, we'd like to acknowledge the indigenous lands where we are located.    
