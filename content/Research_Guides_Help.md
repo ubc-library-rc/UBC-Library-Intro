@@ -5,6 +5,10 @@ title: Research Guides & Research Help
 parent: UBC Library Resources and Services
 ---
 
+# Video
+
+<video controls="controls" name="GRAD student orientation to the library - part 3" width="100%" src="content/GRAD student orientation to the library - part 3 - burned in captions.mp4"></video>
+
 # Links
 
 Research Guides: [https://guides.library.ubc.ca/](https://guides.library.ubc.ca/) 
