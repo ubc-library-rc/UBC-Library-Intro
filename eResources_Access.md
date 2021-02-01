@@ -1,7 +1,7 @@
 ---
 layout: default
 nav_order: 9
-title: Accessing Eletronic Resources
+title: Accessing Electronic Resources
 ---
 
 # Links
