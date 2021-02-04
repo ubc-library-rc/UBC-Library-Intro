@@ -11,4 +11,10 @@ parent: UBC Library Resources and Services
 
 # Links
 
-User Guide: [https://services.library.ubc.ca/user-guides/graduate-students/](https://services.library.ubc.ca/user-guides/graduate-students/)
+## UBC Vancouver
+
+Services for Graduate Students User Guide: [https://services.library.ubc.ca/user-guides/graduate-students/](https://services.library.ubc.ca/user-guides/graduate-students/)
+
+## UBC Okanagan
+
+Services for Graduate Students page: [https://library.ok.ubc.ca/graduate-students/](https://library.ok.ubc.ca/graduate-students/)
