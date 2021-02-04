@@ -12,3 +12,5 @@ parent: UBC Library Resources and Services
 # Links
 
 UBC Vancouver Library Public Events: [https://libcal.library.ubc.ca/calendar/vancouver?cid=7544&t=g&d=0000-00-00&cal=7544&inc=0](https://libcal.library.ubc.ca/calendar/vancouver?cid=7544&t=g&d=0000-00-00&cal=7544&inc=0)
+
+UBC Okanagan News and Events: [https://library.ok.ubc.ca/about/news-events/](https://library.ok.ubc.ca/about/news-events/)
