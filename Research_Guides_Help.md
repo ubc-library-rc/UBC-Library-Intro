@@ -15,10 +15,12 @@ Research Guides: [https://guides.library.ubc.ca/](https://guides.library.ubc.ca/
 
 Finding your subject librarian: [https://directory.library.ubc.ca/subjectlibrarians/](https://directory.library.ubc.ca/subjectlibrarians/)
 
-David Lam Library Zoom drop-in sessions: [https://lam.library.ubc.ca/research-help-2/](https://lam.library.ubc.ca/research-help-2/)
+## UBC Vancouver Library - Zoom drop-in sessions
 
-Koerner Library, Humanities and Social Sciences (HSS) Division Zoom drop-in sessions: [https://koerner.library.ubc.ca/research-help-2/](https://koerner.library.ubc.ca/research-help-2/)
+David Lam Library: [https://lam.library.ubc.ca/research-help-2/](https://lam.library.ubc.ca/research-help-2/)
 
-Woodward Library Zoom drop-in sessions: [https://woodward.library.ubc.ca/research-help/](https://woodward.library.ubc.ca/research-help/)
+Koerner Library, Humanities and Social Sciences (HSS) Division: [https://koerner.library.ubc.ca/research-help-2/](https://koerner.library.ubc.ca/research-help-2/)
 
-AskAway: ![AskAway](images/AskAway.JPG)
+Woodward Library: [https://woodward.library.ubc.ca/research-help/](https://woodward.library.ubc.ca/research-help/)
+
+AskAway: ![AskAway](content/images/AskAway.JPG)
