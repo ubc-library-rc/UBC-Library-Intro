@@ -25,4 +25,4 @@ By the end of this workshop, you will be able to:
 
 ## Video
 
-<video controls="controls" name="GRAD student Orientation to the Library - part 1 - closed captions" width="100%" src="/content/GRAD_student_orientation_to_the_library_part_1_ burned_in_captions.mp4"></video>
+<video controls="controls" name="GRAD student Orientation to the Library - part 1 - closed captions" width="100%" src="GRAD_student_orientation_to_the_library_part_1_ burned_in_captions.mp4"></video>
