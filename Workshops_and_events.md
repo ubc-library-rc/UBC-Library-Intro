@@ -7,7 +7,7 @@ parent: UBC Library Resources and Services
 
 # Video
 
-<video controls="controls" name="GRAD student orientation to the library - part 5" width="100%" src="content/GRAD student orientation to the library - part 5 - burned in captions.mp4"></video>
+<video controls="controls" name="GRAD student orientation to the library - part 5" width="100%" src="GRAD_student_orientation_to_the_library_part_5_burned_in_captions_First_Frame.mp4"></video>
 
 # Links
 
