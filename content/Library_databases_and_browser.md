@@ -2,12 +2,12 @@
 layout: default
 nav_order: 10
 title: Library Databases & Access
-parent: UBC Library Resources and Services
+parent: Accessing Electronic Resources
 ---
 
 # Video
 
-# Links
+## Links
 
 Library Access Browser Extension: [https://services.library.ubc.ca/electronic-access/connect/library-access-browser-extension/](https://services.library.ubc.ca/electronic-access/connect/library-access-browser-extension/)
 
