@@ -11,9 +11,15 @@ parent: UBC Library Resources and Services
 
 # Links
 
-Research Guides: [https://guides.library.ubc.ca/](https://guides.library.ubc.ca/) 
-
 Finding your subject librarian: [https://directory.library.ubc.ca/subjectlibrarians/](https://directory.library.ubc.ca/subjectlibrarians/)
+
+Subject or liaison librarians are librarians that work closely with a Department, Faculty and Programs. They are more familiar with specific subjects and support students' learning and research, teach classes, provide tips on using subject speficic databases and design Research Guides.
+
+Research Guides: [https://guides.library.ubc.ca/](https://guides.library.ubc.ca/)
+
+Carefully tailored for different research areas, Research Guides present a selection of databases, research tips, websites, the main resources related to a subject.
+
+Research Guides are library guides
 
 ## UBC Vancouver Library - Zoom drop-in sessions
 
@@ -23,4 +29,9 @@ Koerner Library, Humanities and Social Sciences (HSS) Division: [https://koerner
 
 Woodward Library: [https://woodward.library.ubc.ca/research-help/](https://woodward.library.ubc.ca/research-help/)
 
-AskAway: ![AskAway](content/images/AskAway.JPG)
+
+## AskAway
+
+This virtual live chat is supported by librarians at Academic Institutions all across British Columbia and Yukon.
+
+![AskAway](images/AskAway.JPG)
