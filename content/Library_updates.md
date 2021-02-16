@@ -1,7 +1,7 @@
 ---
 layout: default
 nav_order: 4
-title: Library updates
+title: Library Updates
 parent: UBC Library Resources and Services
 ---
 
