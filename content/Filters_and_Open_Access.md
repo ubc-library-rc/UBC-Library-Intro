@@ -11,5 +11,5 @@ parent: Accessing Electronic Resources
 
 ## Links
 
-Open Access databases: [https://resources.library.ubc.ca/?searchtype=keywords&search=open+access](https://resources.library.ubc.ca/?searchtype=keywords&search=open+access)
+Open Access databases: [https://resources.library.ubc.ca/?limiter%5B%5D=open](https://resources.library.ubc.ca/?limiter%5B%5D=open)
 
