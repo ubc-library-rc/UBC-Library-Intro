@@ -9,17 +9,16 @@ parent: UBC Library Resources and Services
 
 <video controls="controls" name="GRAD student orientation to the library - part 3" width="100%" src="GRAD_student_orientation_to_the_library_part_3_burned_in_captions_.mp4"></video>
 
-# Links
+## Links
 
 Finding your subject librarian: [https://directory.library.ubc.ca/subjectlibrarians/](https://directory.library.ubc.ca/subjectlibrarians/)
 
-Subject or liaison librarians are librarians that work closely with a Department, Faculty and Programs. They are more familiar with specific subjects and support students' learning and research, teach classes, provide tips on using subject speficic databases and design Research Guides.
+Subject or liaison librarians are librarians that work closely with a Department, Faculty and Programs. They are more familiar with specific subjects and support students' learning and research, teach classes, provide tips on using subject specific databases and design Research Guides.
 
 Research Guides: [https://guides.library.ubc.ca/](https://guides.library.ubc.ca/)
 
 Carefully tailored for different research areas, Research Guides present a selection of databases, research tips, websites, the main resources related to a subject.
 
-Research Guides are library guides
 
 ## UBC Vancouver Library - Zoom drop-in sessions
 
