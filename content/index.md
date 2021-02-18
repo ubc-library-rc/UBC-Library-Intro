@@ -23,6 +23,6 @@ By the end of this workshop, you will be able to:
 ## Resources: Presentation PDF
 [Presentation](RHSC_GradStudOrientation_2021.pdf)
 
-## Video
+# Video
 
 <video controls="controls" name="GRAD student Orientation to the Library - part 1 - closed captions" width="100%" src="GRAD_student_orientation_to_the_library_part_1_ burned_in_captions.mp4"></video>
