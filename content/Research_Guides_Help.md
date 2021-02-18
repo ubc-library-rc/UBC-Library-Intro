@@ -20,7 +20,7 @@ Research Guides: [https://guides.library.ubc.ca/](https://guides.library.ubc.ca/
 *Carefully tailored for different research areas, Research Guides present a selection of databases, research tips, websites, the main resources related to a subject.*
 
 
-## UBC Vancouver Library - Zoom drop-in sessions
+### UBC Vancouver Library - Zoom drop-in sessions
 
 David Lam Library: [https://lam.library.ubc.ca/research-help-2/](https://lam.library.ubc.ca/research-help-2/)
 
