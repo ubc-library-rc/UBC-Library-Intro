@@ -9,7 +9,7 @@ parent: UBC Library Resources and Services
 
 <video controls="controls" name="GRAD student orientation to the library - part 4" width="100%" src="GRAD_student_orientation_to_the_library_part_4_burned_in_captions.mp4"></video>
 
-# Links
+## Links
 
 Research Commons main page: [https://researchcommons.library.ubc.ca/](https://researchcommons.library.ubc.ca/)
 
