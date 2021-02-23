@@ -3,7 +3,7 @@ layout: default
 title: Acknowledgements
 nav_order: 20
 ---
-# Thank You for watching!
+# Thank you for watching!
 
 Remember: librarians are here to help!
 
