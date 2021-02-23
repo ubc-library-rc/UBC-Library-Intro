@@ -5,8 +5,6 @@ nav_order: 1
 has_children: true
 ---
 
-## Note: this workshop is in development and not yet complete.
-
 # Introduction & Welcome
 
 Are you a graduate student and new to UBC? This basic orientation will briefly introduce you to resources, services and people at UBC Library.
