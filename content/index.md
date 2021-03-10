@@ -19,7 +19,7 @@ By the end of this workshop, you will be able to:
 5. List services for graduate students
 
 ## Resources: Presentation PDF
-[Presentation](/RHSC_GradStudOrientation_2021.pdf)
+![Presentation](RHSC_GradStudOrientation_2021.pdf)
 
 # Video
 
