@@ -18,8 +18,10 @@ By the end of this workshop, you will be able to:
 4. Find top library resources
 5. List services for graduate students
 
-## Resources: Presentation PDF
-[Presentation](RHSC_GradStudOrientation_2021.pdf){:target="_blank"}
+## Resources: Presentation Slides
+[PDF format](main/RHSC_GradStudOrientation_2021.pdf){:target="_blank"}
+
+RHSC_GradStudOrientation_2021.pdf
 
 # Video
 
